@@ -13,7 +13,7 @@
 		<PackageId>PhotoBrowser.Maui</PackageId>
 		<Title>PhotoBrowser.Maui</Title>
 		<Summary>PhotoBrowser.Maui library for projects using .NET MAUI</Summary>
-		<Authors>NamCkiku</Authors>
+		<Authors>Dacorp</Authors>
 		<Owners>$(Authors)</Owners>
 		<Company>$(Authors)</Company>
 		<NeutralLanguage>vi-VN</NeutralLanguage>
